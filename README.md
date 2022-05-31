@@ -1,4 +1,3 @@
 # RS School - CV Task
-Solution
-***
+Solution  
 https://feyanax.github.io/rsschool-cv/cv
