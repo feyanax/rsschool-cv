@@ -8,7 +8,7 @@
 
 ***  
 ## About me:
-Сейчас я работаю в диджитал агентстве, сейчас изучаю фронтенд на курсах RS.School.  хочу получить необходимые знания и навыки для реализации как собственных проектов так и изменения напраления деятельности.
+Now I work in a digital agency, now I'm studying front-end at RS.School courses. I want to gain the necessary knowledge and skills to implement both my own projects and change the direction of my activity.
 ***
 ## Skills:
 * Python
