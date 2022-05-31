@@ -1,1 +1,1 @@
-# CV Task
+# RS School - CV Task
