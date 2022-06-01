@@ -1,3 +1,3 @@
-# RS School - CV Task
+# RS School - CV Html&Css Task
 Solution  
-https://feyanax.github.io/rsschool-cv/cv
+https://feyanax.github.io/rsschool-cv/
