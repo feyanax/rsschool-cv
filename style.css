@@ -1,5 +1,68 @@
-h1 {
+html {
+    scroll-behavior: smooth; 
+}
+
+body {
+    height: 100%;
     font-family: 'Montserrat', sans-serif;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+    padding: 0 20px;
+    line-height: 50px;
+    transition: .3s;
+}
+
+h1{
     font-size: 24px;
     font-weight: 900;
+}
+
+h2 {
+    font-size: 16px;
+    font-weight: 900;
+}
+
+p {
+    font-size: 12px;
+    font-weight: 500;
+}
+
+nav {
+    background-color: rgb(231, 178, 86);
+    padding: 1px;
+}
+
+ul#nav > li {
+    display: inline;
+    vertical-align: middle;
+    font-size: 10px;
+    font-weight: 500;
+}
+
+img#photo {
+    display: block;
+    border-radius: 50%;
+    float: left;
+}
+
+footer {
+    margin: 1px;
+    position: fixed;
+    bottom: 0%;
+    right: 50%;
+}
+
+footer * {
+    display: inline;
+    height: 30px;
 }
